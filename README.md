@@ -1,6 +1,6 @@
 # Projeto de Estrutura de Dados — Fila de Atendimento de Clínica de Estética
 
-**Aluno(s):** [NOME DO ALUNO]
+**Aluna:** Amanda Oiveira
 **Disciplina:** Estrutura de Dados
 **Tema:** Sistema de fila de atendimento de uma clínica de estética
 
@@ -10,8 +10,7 @@ Repositório com as implementações do projeto em duas linguagens:
 
 | Pasta | Conteúdo | Situação |
 |---|---|---|
-| [`java/`](java/README.md) | Sistema de console completo: Array, Enum e Pilha integrados em um menu | Pronto |
-| [`c/`](c/README.md) | Esqueletos de ponteiros, alocação dinâmica e uniões | Será desenvolvido nas próximas etapas |
+| [`java/`](java/README.md) | Sistema de console completo: Array, Enum e Pilha integrados em um menu. 
 
 ## Estrutura
 
@@ -39,4 +38,4 @@ javac -encoding UTF-8 -d out src/Main.java src/modelos/*.java src/estruturas/*.j
 java -cp out Main
 ```
 
-Mais detalhes (menu, decisões de projeto e itens da ementa) em [`java/README.md`](java/README.md).
+Mais detalhes (menu, decisões de projeto e alguns itens) em [`java/README.md`](java/README.md).
