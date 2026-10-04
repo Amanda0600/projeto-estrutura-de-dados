@@ -13,7 +13,7 @@ Repositório com as implementações do projeto em duas linguagens:
 | Pasta | Conteúdo | Situação |
 |---|---|---|
 | [`java/`](java/README.md) | Sistema de console completo: Array, Enum e Pilha integrados em um menu | Pronto |
-| [`c/`](c/README.md) | Esqueletos de ponteiros, alocação dinâmica e uniões | Será desenvolvido nas próximas etapas |
+
 
 
 ## Estrutura
