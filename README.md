@@ -1,7 +1,9 @@
 # Projeto de Estrutura de Dados — Fila de Atendimento de Clínica de Estética
 
 **Aluna:** Amanda Oiveira
+
 **Disciplina:** Estrutura de Dados
+
 **Tema:** Sistema de fila de atendimento de uma clínica de estética
 
 ## Visão geral
