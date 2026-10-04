@@ -37,5 +37,3 @@ mkdir -p out
 javac -encoding UTF-8 -d out src/Main.java src/modelos/*.java src/estruturas/*.java src/util/*.java
 java -cp out Main
 ```
-
-Mais detalhes (menu, decisões de projeto e alguns itens) em [`java/README.md`](java/README.md).
